@@ -20,7 +20,7 @@ source ./.venv/bin/activate
 .\venv\Scripts\Activate.ps1
 ```
 
-2. Install the dependencies using `requirements.txt`
+3. Install the dependencies using `requirements.txt`
 
 ```sh
 pip install -r requirements.txt
