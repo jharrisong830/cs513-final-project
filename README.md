@@ -26,7 +26,7 @@ source ./.venv/bin/activate
 
 ```ps1
 # on Windows using PowerShell
-.\venv\Scripts\Activate.ps1
+.\.venv\Scripts\Activate.ps1
 ```
 
 3. Install the dependencies using `requirements.txt`
