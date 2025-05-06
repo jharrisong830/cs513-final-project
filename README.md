@@ -1,4 +1,13 @@
-# cs513-final-project
+# Classification of Clinical Depression in Students
+## Mixed_Group_2 - CS 513 - Spring 2025
+
+#### Group Members
+- John Graham (20006581)
+- Ramses Peralta (20014942)
+- Suprith Reddy (20010383)
+
+#### Dataset Used
+Link [here](https://www.kaggle.com/datasets/hopesb/student-depression-dataset)
 
 ## Environment Setup
 
